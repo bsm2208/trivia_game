@@ -179,4 +179,124 @@
         "correct_answer": "Iodine",
         "incorrect_answers": ["Iron", "Calcium", "Zinc"]
     }
+    {
+        "category": "Science - Chemistry",
+        "question": "What is the most abundant gas in the Earth's atmosphere?",
+        "correct_answer": "Nitrogen",
+        "incorrect_answers": ["Oxygen", "Carbon Dioxide", "Argon"]
+    },
+    {
+        "category": "History",
+        "question": "Who was the first woman to win a Nobel Prize?",
+        "correct_answer": "Marie Curie",
+        "incorrect_answers": ["Mother Teresa", "Rosalind Franklin", "Ada Lovelace"]
+    },
+    {
+        "category": "Geography",
+        "question": "Which river is the longest in the world?",
+        "correct_answer": "The Nile",
+        "incorrect_answers": ["The Amazon", "The Yangtze", "The Mississippi"]
+    },
+    {
+        "category": "Science - Biology",
+        "question": "What is the powerhouse of the cell?",
+        "correct_answer": "Mitochondria",
+        "incorrect_answers": ["Nucleus", "Ribosome", "Golgi Apparatus"]
+    },
+    {
+        "category": "Arts",
+        "question": "Which art movement is Salvador Dalí associated with?",
+        "correct_answer": "Surrealism",
+        "incorrect_answers": ["Impressionism", "Cubism", "Pop Art"]
+    },
+    {
+        "category": "Literature",
+        "question": "Who wrote '1984'?",
+        "correct_answer": "George Orwell",
+        "incorrect_answers": ["Aldous Huxley", "Ray Bradbury", "H.G. Wells"]
+    },
+    {
+        "category": "Science - Physics",
+        "question": "What is the speed of light in a vacuum?",
+        "correct_answer": "299,792,458 m/s",
+        "incorrect_answers": ["150,000,000 m/s", "1,000,000,000 m/s", "343 m/s"]
+    },
+    {
+        "category": "History",
+        "question": "In which year did the Titanic sink?",
+        "correct_answer": "1912",
+        "incorrect_answers": ["1905", "1920", "1915"]
+    },
+    {
+        "category": "Geography",
+        "question": "What is the smallest country in the world?",
+        "correct_answer": "Vatican City",
+        "incorrect_answers": ["Monaco", "Nauru", "San Marino"]
+    },
+    {
+        "category": "Science - Chemistry",
+        "question": "What is the chemical symbol for Gold?",
+        "correct_answer": "Au",
+        "incorrect_answers": ["Ag", "Gd", "Go"]
+    },
+    {
+        "category": "Literature",
+        "question": "Who is the protagonist of 'The Catcher in the Rye'?",
+        "correct_answer": "Holden Caulfield",
+        "incorrect_answers": ["Jay Gatsby", "Huckleberry Finn", "Atticus Finch"]
+    },
+    {
+        "category": "Arts",
+        "question": "Who painted 'The Starry Night'?",
+        "correct_answer": "Vincent van Gogh",
+        "incorrect_answers": ["Claude Monet", "Pablo Picasso", "Salvador Dalí"]
+    },
+    {
+        "category": "Science - Astronomy",
+        "question": "Which planet is known as the 'Red Planet'?",
+        "correct_answer": "Mars",
+        "incorrect_answers": ["Venus", "Jupiter", "Saturn"]
+    },
+    {
+        "category": "Food Science",
+        "question": "What is the main ingredient in traditional hummus?",
+        "correct_answer": "Chickpeas",
+        "incorrect_answers": ["Lentils", "Black Beans", "Fava Beans"]
+    },
+    {
+        "category": "Geography",
+        "question": "Mount Kilimanjaro is the highest peak in which continent?",
+        "correct_answer": "Africa",
+        "incorrect_answers": ["Asia", "South America", "Europe"]
+    },
+    {
+        "category": "History",
+        "question": "Who was the first President of the United States?",
+        "correct_answer": "George Washington",
+        "incorrect_answers": ["Thomas Jefferson", "Abraham Lincoln", "John Adams"]
+    },
+    {
+        "category": "Science - Physics",
+        "question": "Which law states that for every action, there is an equal and opposite reaction?",
+        "correct_answer": "Newton's Third Law",
+        "incorrect_answers": ["Newton's First Law", "Law of Gravity", "Ohm's Law"]
+    },
+    {
+        "category": "Literature",
+        "question": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
+        "correct_answer": "Hamlet",
+        "incorrect_answers": ["Macbeth", "Othello", "King Lear"]
+    },
+    {
+        "category": "Food Science",
+        "question": "What gives red cabbage its color and changes based on pH?",
+        "correct_answer": "Anthocyanins",
+        "incorrect_answers": ["Chlorophyll", "Carotene", "Lycopene"]
+    },
+    {
+        "category": "Arts",
+        "question": "Which famous street in New York is known for its theaters?",
+        "correct_answer": "Broadway",
+        "incorrect_answers": ["Fifth Avenue", "Wall Street", "Madison Avenue"]
+    }
 ]
