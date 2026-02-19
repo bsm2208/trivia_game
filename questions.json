@@ -178,7 +178,7 @@
         "question": "Which mineral is added to most table salt to prevent goiter?",
         "correct_answer": "Iodine",
         "incorrect_answers": ["Iron", "Calcium", "Zinc"]
-    }
+    },
     {
         "category": "Science - Chemistry",
         "question": "What is the most abundant gas in the Earth's atmosphere?",
