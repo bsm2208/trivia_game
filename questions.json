@@ -1,0 +1,182 @@
+[
+    {
+        "category": "Geography",
+        "question": "Which country has the most natural lakes in the world?",
+        "correct_answer": "Canada",
+        "incorrect_answers": ["Russia", "USA", "Finland"]
+    },
+    {
+        "category": "Science - Physics",
+        "question": "What is the term for the tendency of an object to resist changes in its state of motion?",
+        "correct_answer": "Inertia",
+        "incorrect_answers": ["Friction", "Velocity", "Gravity"]
+    },
+    {
+        "category": "Literature",
+        "question": "In 'The Great Gatsby', what does the green light at the end of Daisy's dock symbolize?",
+        "correct_answer": "Gatsby's hopes and dreams",
+        "incorrect_answers": ["Wealth", "Environmentalism", "Danger"]
+    },
+    {
+        "category": "Arts",
+        "question": "Which Dutch painter is famous for 'The Girl with a Pearl Earring'?",
+        "correct_answer": "Johannes Vermeer",
+        "incorrect_answers": ["Rembrandt", "Vincent van Gogh", "Piet Mondrian"]
+    },
+    {
+        "category": "Food Science",
+        "question": "Which gas is primarily responsible for the 'holes' found in leavened bread?",
+        "correct_answer": "Carbon Dioxide",
+        "incorrect_answers": ["Oxygen", "Nitrogen", "Hydrogen"]
+    },
+    {
+        "category": "Geography",
+        "question": "What is the capital city of Kazakhstan?",
+        "correct_answer": "Astana",
+        "incorrect_answers": ["Almaty", "Baku", "Tashkent"]
+    },
+    {
+        "category": "Science - Biology",
+        "question": "Which protein in red blood cells is responsible for carrying oxygen throughout the body?",
+        "correct_answer": "Hemoglobin",
+        "incorrect_answers": ["Insulin", "Keratin", "Collagen"]
+    },
+    {
+        "category": "Literature",
+        "question": "Who is the author of the 'Divine Comedy'?",
+        "correct_answer": "Dante Alighieri",
+        "incorrect_answers": ["Homer", "Petrarch", "Virgil"]
+    },
+    {
+        "category": "Arts",
+        "question": "The 'Louvre' museum, home to the Mona Lisa, is located in which city?",
+        "correct_answer": "Paris",
+        "incorrect_answers": ["Madrid", "London", "Florence"]
+    },
+    {
+        "category": "Food Science",
+        "question": "What is the process of heating milk to kill harmful bacteria called?",
+        "correct_answer": "Pasteurization",
+        "incorrect_answers": ["Homogenization", "Sterilization", "Fermentation"]
+    },
+    {
+        "category": "Geography",
+        "question": "Which desert is the largest hot desert in the world?",
+        "correct_answer": "The Sahara",
+        "incorrect_answers": ["The Gobi", "The Kalahari", "The Arabian"]
+    },
+    {
+        "category": "Science - Chemistry",
+        "question": "On the pH scale, a value of 7 is considered what?",
+        "correct_answer": "Neutral",
+        "incorrect_answers": ["Acidic", "Basic", "Reactive"]
+    },
+    {
+        "category": "Literature",
+        "question": "What was the first play ever written by William Shakespeare?",
+        "correct_answer": "Henry VI, Part 1",
+        "incorrect_answers": ["Romeo and Juliet", "Hamlet", "The Tempest"]
+    },
+    {
+        "category": "Arts",
+        "question": "Which sculptor created the famous marble statue 'David'?",
+        "correct_answer": "Michelangelo",
+        "incorrect_answers": ["Donatello", "Bernini", "Rodin"]
+    },
+    {
+        "category": "Food Science",
+        "question": "Which fat-soluble vitamin is produced by the body when skin is exposed to sunlight?",
+        "correct_answer": "Vitamin D",
+        "incorrect_answers": ["Vitamin A", "Vitamin E", "Vitamin K"]
+    },
+    {
+        "category": "Geography",
+        "question": "The Galapagos Islands belong to which South American country?",
+        "correct_answer": "Ecuador",
+        "incorrect_answers": ["Peru", "Chile", "Colombia"]
+    },
+    {
+        "category": "Science - Biology",
+        "question": "What is the smallest unit of life that can replicate independently?",
+        "correct_answer": "The Cell",
+        "incorrect_answers": ["Atom", "Molecule", "Organ"]
+    },
+    {
+        "category": "Literature",
+        "question": "Who wrote 'The Catcher in the Rye'?",
+        "correct_answer": "J.D. Salinger",
+        "incorrect_answers": ["Ernest Hemingway", "F. Scott Fitzgerald", "Mark Twain"]
+    },
+    {
+        "category": "Arts",
+        "question": "In which century did the Baroque period of art and music reach its peak?",
+        "correct_answer": "17th Century",
+        "incorrect_answers": ["15th Century", "19th Century", "13th Century"]
+    },
+    {
+        "category": "Food Science",
+        "question": "Capsaicin is the chemical compound responsible for the 'heat' in which food?",
+        "correct_answer": "Chili Peppers",
+        "incorrect_answers": ["Black Pepper", "Ginger", "Wasabi"]
+    },
+    {
+        "category": "Geography",
+        "question": "Which sea is located between Jordan and Israel and is known for its high salt content?",
+        "correct_answer": "The Dead Sea",
+        "incorrect_answers": ["The Red Sea", "The Caspian Sea", "The Mediterranean"]
+    },
+    {
+        "category": "Science - Astronomy",
+        "question": "What is the largest planet in our solar system?",
+        "correct_answer": "Jupiter",
+        "incorrect_answers": ["Saturn", "Neptune", "Earth"]
+    },
+    {
+        "category": "Literature",
+        "question": "What is the name of the fictional land where 'The Hobbit' takes place?",
+        "correct_answer": "Middle-earth",
+        "incorrect_answers": ["Narnia", "Westeros", "Neverland"]
+    },
+    {
+        "category": "Arts",
+        "question": "Which architect designed the Guggenheim Museum in Bilbao, Spain?",
+        "correct_answer": "Frank Gehry",
+        "incorrect_answers": ["Le Corbusier", "Frank Lloyd Wright", "Zaha Hadid"]
+    },
+    {
+        "category": "Food Science",
+        "question": "What is the term for the browning of fruit, like apples, when exposed to air?",
+        "correct_answer": "Enzymatic Browning",
+        "incorrect_answers": ["Oxidation", "Fermentation", "Caramelization"]
+    },
+    {
+        "category": "Geography",
+        "question": "Which mountain range separates Europe from Asia?",
+        "correct_answer": "The Urals",
+        "incorrect_answers": ["The Alps", "The Himalayas", "The Andes"]
+    },
+    {
+        "category": "Science - Biology",
+        "question": "What is the protective outer layer of a plant cell called?",
+        "correct_answer": "Cell Wall",
+        "incorrect_answers": ["Cell Membrane", "Cytoskeleton", "Nuclear Envelope"]
+    },
+    {
+        "category": "Literature",
+        "question": "Which Russian author wrote 'War and Peace'?",
+        "correct_answer": "Leo Tolstoy",
+        "incorrect_answers": ["Fyodor Dostoevsky", "Anton Chekhov", "Vladimir Nabokov"]
+    },
+    {
+        "category": "Arts",
+        "question": "What medium did Edgar Degas famously use for his 'Dancer' series?",
+        "correct_answer": "Pastels",
+        "incorrect_answers": ["Oil Paint", "Watercolor", "Charcoal"]
+    },
+    {
+        "category": "Food Science",
+        "question": "Which mineral is added to most table salt to prevent goiter?",
+        "correct_answer": "Iodine",
+        "incorrect_answers": ["Iron", "Calcium", "Zinc"]
+    }
+]
